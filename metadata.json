@@ -1,0 +1,7 @@
+{
+  "name": "Nova Keyboard",
+  "description": "Stunning custom keyboard UI kit with neon themes, live preview, themes gallery, emoji picker, and custom settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
